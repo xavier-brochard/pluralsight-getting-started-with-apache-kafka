@@ -18,8 +18,8 @@ public class KafkaConsumerApp {
     Properties props = new Properties();
     props.put("bootstrap.servers", "localhost:9092");
     props.put("acks", "all");
-    props.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
-    props.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
+    props.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+    props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
 
     Consumer<String, String> myConsumer = new KafkaConsumer<>(props);
     ArrayList<String> topics = new ArrayList<>();
