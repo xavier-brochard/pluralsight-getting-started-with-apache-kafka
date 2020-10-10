@@ -52,3 +52,5 @@ srvr
 ```bash
 /path/to/kafka/bin/kafka-topics --describe --topic my_topic --zookeeper localhost:2181
 ```
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/XavierBrochard/kafka-samples)
