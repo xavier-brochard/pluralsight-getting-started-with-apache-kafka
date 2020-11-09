@@ -1,7 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/XavierBrochard/kafka-samples)
 
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/xavierbrochard">
         <img width="70%" src="https://kafka.apache.org/images/logo.png">
     </a>
 </p>
