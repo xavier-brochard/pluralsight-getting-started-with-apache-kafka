@@ -6,7 +6,7 @@
     </a>
 </p>
 
-# Kafka Samples
+# Getting started with Apache Kafka
 
 Following the Pluralsight course [Getting Started with Apache Kafka](https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents) by [Ryan Plant](https://app.pluralsight.com/profile/author/ryan-plant).
 
